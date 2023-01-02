@@ -8,4 +8,4 @@
 <img src="static/NEUTRAL_BOYS_2000.png"
   alt="neutral" width="400">
   
-**just be yourself.**
+**ma guys 👆🐐**
