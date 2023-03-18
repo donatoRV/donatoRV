@@ -14,5 +14,5 @@ Currently studying Offensive Security, Python, C# and Linux;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donatoRV&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
 
-<img align="center" src="static/tux-linux-penguin.gif"
+<img align="left" src="static/tux-linux-penguin.gif"
   alt="neutral" width="200">
