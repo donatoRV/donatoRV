@@ -1,5 +1,6 @@
 ## Donato Rocha [Dstar]
 -🕷 Cyber Security Student
+
 -🔱 Discord: dstar#0376
 
 Currently studying Offensive Security, Python, C# and Linux;
