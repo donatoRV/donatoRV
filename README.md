@@ -5,7 +5,7 @@
 -----
 
 
-<img src="static/NEUTRAL_BOYS_2000.png"
+<img src="static/tux-linux-penguin.gif"
   alt="neutral" width="400">
   
 **ma guys 👆🐐**
