@@ -6,6 +6,4 @@
 
 
 <img src="static/tux-linux-penguin.gif"
-  alt="neutral" width="400">
-  
-**ma guys 👆🐐**
+  alt="neutral" width="200">
