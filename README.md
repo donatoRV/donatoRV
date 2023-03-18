@@ -15,6 +15,6 @@ Currently studying Offensive Security, Python, C# and Linux;
 </div>
 
 <img align="center" src="static/tux-linux-penguin.gif"
-  alt="neutral" width="200">
+  alt="neutral" width="100">
 
 ##
