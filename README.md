@@ -1,7 +1,7 @@
 ## Donato Rocha [Dstar]
 - 🕷 BackEnd/Cyber Security Student
 
-- 🔱 Discord: dstar#0376
+- 🔱 Discord: donatostar
 
 Currently studying Offensive Security, Python, C# and Linux;
 
