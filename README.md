@@ -4,7 +4,7 @@
 
 - 🔱 Discord: donatostar
 
-Currently studying Offensive Security, OSINT, Python, C# and Linux;
+Currently studying Offensive Security and Linux;
 
 -----
 ##
