@@ -2,7 +2,7 @@
 -----
 - 🕷 BackEnd/Cyber Security Student
 
-- 🔱 Discord: donatostar
+- 🔱 Discord: donatostar/donatolindo
 
 Currently studying Offensive Security and Linux;
 
