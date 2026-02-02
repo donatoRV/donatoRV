@@ -1,8 +1,8 @@
-## Donato Rocha [Dstar]
+## Donato Rocha [dstar]
 -----
 - 🕷 BackEnd/Cyber Security Student
 
-- 🔱 Discord: donatostar/donatolindo
+- 🔱 Discord: dsshxd
 
 Currently studying Offensive Security and Linux;
 
